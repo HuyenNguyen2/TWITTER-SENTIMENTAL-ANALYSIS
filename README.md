@@ -5,5 +5,4 @@ Phân tích tệp dữ liệu thu được từ 1 phần của Dự án Trườn
  3. Chạy các mô hình phân loại nhị phân và đánh giá mô hình tốt nhất
  
 Tham khảo từ: 
-
 Twitter and Reddit Sentimental analysis Dataset. (nd). Retrieved June, 2022, from: http://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset[](url) 
