@@ -3,5 +3,6 @@ Phân tích tệp dữ liệu thu được từ 1 phần của Dự án Trườn
  1. Xử lý dữ liệu để tìm ra điểm chung của các đoạn Tweet có nội dung phản cảm  
  2. Xây dựng mô hình phân loại nhị phân với nhãn 
  3. Chạy các mô hình phân loại nhị phân và đánh giá mô hình tốt nhất
- Tham khảo từ: 
+Tham khảo từ: 
+
 Twitter and Reddit Sentimental analysis Dataset. (nd). Retrieved June, 2022, from: http://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset[](url) 
